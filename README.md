@@ -1,0 +1,2 @@
+# wocando
+Python Django project
